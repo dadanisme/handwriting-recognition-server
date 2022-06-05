@@ -1,5 +1,6 @@
 server-heroku/
-credential.json
+__pycache__/
 input/
 output/
+credential.json
 vision.py
